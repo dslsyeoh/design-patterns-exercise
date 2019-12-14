@@ -5,7 +5,7 @@
 
 package com.dsl.design.pattern.singleton;
 
-public class SingletonDemo
+public class SingletonPatternDemo
 {
     public static void main(String[] args)
     {
