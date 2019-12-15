@@ -6,3 +6,5 @@ List of exercise example of design pattern
 - Abstract Factory
 - Facade
 - Command
+- Adapter
+- Decorator
