@@ -21,5 +21,4 @@ public class AbstractFactoryPatternDemo
         IHardware keyboard2 = HardwareFactory.create("keyboard", false);
         keyboard2.create();
     }
-
 }
