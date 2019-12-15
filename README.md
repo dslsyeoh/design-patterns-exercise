@@ -4,3 +4,5 @@ List of exercise example of design pattern
 - Strategy
 - Factory
 - Abstract Factory
+- Facade
+- Command
