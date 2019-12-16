@@ -9,10 +9,10 @@ public class MyGame
 {
     private GameState gameState;
 
-    private Start START = new Start(this);
-    private Wait WAITING = new Wait(this);
-    private Restart RESTART = new Restart(this);
-    private GameOver GAME_OVER = new GameOver(this);
+    private Start START = new Start();
+    private Wait WAITING = new Wait();
+    private Restart RESTART = new Restart();
+    private GameOver GAME_OVER = new GameOver();
 
     public void test()
     {
@@ -33,5 +33,4 @@ public class MyGame
         gameState = GAME_OVER;
         gameState.printState();
     }
-
 }

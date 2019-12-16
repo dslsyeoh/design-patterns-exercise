@@ -7,11 +7,6 @@ package com.dsl.design.pattern.state.example2;
 
 public class GameOver extends GameState
 {
-    public GameOver(MyGame myGame)
-    {
-        super(myGame);
-    }
-
     @Override
     public void printState()
     {

@@ -7,11 +7,6 @@ package com.dsl.design.pattern.state.example2;
 
 public class Wait extends GameState
 {
-    public Wait(MyGame myGame)
-    {
-        super(myGame);
-    }
-
     @Override
     public void printState()
     {
