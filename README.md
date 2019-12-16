@@ -8,3 +8,5 @@ List of exercise example of design pattern
 - Command
 - Adapter
 - Decorator
+- Composite
+- Proxy
